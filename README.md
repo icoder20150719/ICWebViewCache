@@ -28,3 +28,6 @@ webViewCache.cacheExpireTime = 24*60*60;//缓存过期时间默认为一天
 }
 </pre>
 
+#5、如果您有更好方法或者发现bug
+请联系qq：1209996080
+
